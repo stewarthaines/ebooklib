@@ -44,6 +44,8 @@ html_element_attributes_case_sensitive_lookup = {
   "attributename": "attributeName",
   "basefrequency": "baseFrequency",
   "calcmode": "calcMode",
+  "clipbegin": "clipBegin",
+  "clipend": "clipEnd",
   "clippathunits": "clipPathUnits",
   "diffuseconstant": "diffuseConstant",
   "edgemode": "edgeMode",
